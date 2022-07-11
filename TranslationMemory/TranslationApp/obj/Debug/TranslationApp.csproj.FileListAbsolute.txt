@@ -1,0 +1,8 @@
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\bin\Debug\TranslationApp.exe.config
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\bin\Debug\TranslationApp.exe
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\bin\Debug\TranslationApp.pdb
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.csproj.AssemblyReference.cache
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.csproj.SuggestedBindingRedirects.cache
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.csproj.CoreCompileInputs.cache
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.exe
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.pdb
