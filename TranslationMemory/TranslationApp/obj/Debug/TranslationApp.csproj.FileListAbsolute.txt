@@ -6,3 +6,6 @@ F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\ob
 F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.csproj.CoreCompileInputs.cache
 F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.exe
 F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.pdb
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\bin\Debug\Newtonsoft.Json.dll
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\bin\Debug\Newtonsoft.Json.xml
+F:\Privat\Studium\4. Semester\Softwaredesign\TranslationMemory\TranslationApp\obj\Debug\TranslationApp.csproj.CopyComplete
